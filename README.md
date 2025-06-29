@@ -20,6 +20,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
+```JavaScript
+
 const benjiDev = {
   name: "BenJi",
   location: "Beijing, China 🇨🇳",
@@ -46,6 +48,7 @@ const benjiDev = {
 console.log(`👋 Hi! I'm ${benjiDev.name}, a ${benjiDev.role} based in ${benjiDev.location}`);
 console.log(`🔥 Currently ${benjiDev.currentFocus.toLowerCase()}`);
 console.log(`💭 ${benjiDev.lifePhilosophy}`);
+```
 
 <br clear="both">
 
