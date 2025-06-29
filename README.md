@@ -20,21 +20,34 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-```JavaScript
-
+```javascript
 const benjiDev = {
   name: "BenJi",
-  location: "Beijing, China 🇨🇳", 
+  location: "Beijing, China 🇨🇳",
   role: "Full-Stack Developer & AI Enthusiast",
   languages: ["Python", "TypeScript", "Java", "Dart", "PHP", "Go"],
   frameworks: ["React", "Next.js", "Flutter", "Node.js", "Flask", "Spring Boot"],
   databases: ["MongoDB", "PostgreSQL", "Redis", "Firebase"],
   cloud: ["AWS", "Azure", "GCP", "Docker", "Kubernetes"],
   currentFocus: "Building AI-powered applications & contributing to open source",
-  lifePhilosophy: "Code with passion, debug with patience! 🐛✨"
+  lifePhilosophy: "Code with passion, debug with patience! 🐛✨",
+  
+  // Current Status
+  workingOn: "AI Tools Directory & Open Source Projects",
+  learning: ["Web3", "Advanced AI/ML", "System Design"],
+  collaborating: "Open Source Community Projects",
+  askMeAbout: ["React", "Python", "Flutter", "System Architecture"],
+  
+  // Fun Facts
+  hobbies: ["Coding", "Tech Blogging", "Contributing to OSS"],
+  motto: "Building the future, one commit at a time! 🚀"
 };
-```
 
+// Output current status
+console.log(`👋 Hi! I'm ${benjiDev.name}, a ${benjiDev.role} based in ${benjiDev.location}`);
+console.log(`🔥 Currently ${benjiDev.currentFocus.toLowerCase()}`);
+console.log(`💭 ${benjiDev.lifePhilosophy}`);
+```
 <br clear="both">
 
 ---
