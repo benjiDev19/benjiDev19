@@ -198,7 +198,7 @@ An intelligent chatbot built with natural language processing capabilities, inte
 - 💬 Real-time messaging
 - 📈 Analytics dashboard
 
-[🔗 Live Demo](https://your-demo-link.com) | [📁 Repository](https://github.com/benjiDev19/chatbot)
+[🔗 Live Demo](https://your-demo-link.com) | [📁 Repository](https://github.com/benjiDev19/simple-flutter-chatbot-with-speech)
 
 </td>
 </tr>
