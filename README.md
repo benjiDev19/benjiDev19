@@ -17,13 +17,13 @@
 
 ```javascript
 const developer = {
-    name: "Your Name",
-    location: "Your City, Country",
-    role: "Full Stack Developer",
+    name: benjiDev,
+    location: Beijing,
+    role: Developer,
     languages: ["JavaScript", "Python", "Java", "TypeScript"],
-    frameworks: ["React", "Node.js", "Django", "Spring Boot"],
-    databases: ["MongoDB", "PostgreSQL", "Redis"],
-    cloud: ["AWS", "Azure", "Docker", "Kubernetes"],
+    frameworks: ["Flutter", "Node.js", "Flask"],
+    databases: ["MongoDB", "PostgreSQL", "Firebase Database"],
+    cloud: ["AWS", "Azure", "Docker", "Firebase"],
     currentFocus: "Building scalable web applications",
     funFact: "I debug with console.log and I'm proud of it! 🐛"
 };
@@ -40,7 +40,7 @@ const developer = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Dart](https://img.shields.io/pub/publisher/:packageName)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
