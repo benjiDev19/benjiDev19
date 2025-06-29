@@ -128,7 +128,7 @@ const developer = {
 
 <div align="center">
   
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/313vx3bils3y75rs7s5una3opciy)
 
 </div>
 
