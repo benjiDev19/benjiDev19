@@ -29,7 +29,10 @@ const developer = {
     frameworks: ["Flutter", "Node.js", "Flask"],
     databases: ["MongoDB", "PostgreSQL", "Firebase Database"],
     cloud: ["AWS", "Azure", "Docker", "Firebase"],
+    learning: ["Web3", "Advanced AI/ML", "System Design"],
     currentFocus: "Building AI-powered applications & contributing to open source",
+    hobbies: ["Coding", "Tech Blogging", "Contributing to OSS"],
+    motto: "Building the future, one commit at a time! 🚀"
     lifePhilosophy: "Code with passion, debug with patience! 🐛✨"
 };
 ```
