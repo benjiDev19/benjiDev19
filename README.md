@@ -173,7 +173,7 @@ A feature-rich e-commerce mobile application with real-time inventory management
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Live-00D26A?style=flat-square)
 
-My personal portfolio website showcasing projects, skills, and experience with modern animations and responsive design.
+My personal portfolio website showcasing projects, skills, and experience with modern animations and responsive design. 
 
 **Tech Stack:** React, TypeScript, Framer Motion, Tailwind CSS
 - ✨ Smooth animations
