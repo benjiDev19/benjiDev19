@@ -20,7 +20,7 @@ const developer = {
     name: benjiDev,
     location: Beijing,
     role: Developer,
-    languages: ["JavaScript", "Python", "Java", "TypeScript"],
+    languages: [ "Python", "Java", "JavaScript",  "Dart", PhP],
     frameworks: ["Flutter", "Node.js", "Flask"],
     databases: ["MongoDB", "PostgreSQL", "Firebase Database"],
     cloud: ["AWS", "Azure", "Docker", "Firebase"],
@@ -101,8 +101,8 @@ const developer = {
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=benjiDev19&repo=project1&theme=radical)](https://github.com/yourusername/project1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=benjiDev19&repo=project2&theme=radical)](https://github.com/yourusername/project2)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=benjiDev19&repo=project1&theme=radical)](https://github.com/benjiDev19/project1)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=benjiDev19&repo=project2&theme=radical)](https://github.com/benjiDev19/project2)
 
 </div>
 
@@ -110,7 +110,7 @@ const developer = {
 
 ## 📈 Contribution Graph
 
-![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/benjiDev19/benjiDev19/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
