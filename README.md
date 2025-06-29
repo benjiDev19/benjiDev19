@@ -37,8 +37,8 @@ const benjiDev: Developer = {
   name: "BenJi",
   location: "Beijing, China 🇨🇳",
   role: "Full-Stack Developer & AI Enthusiast",
-  languages: ["Python", "TypeScript", "Java", "Dart", "PHP", "Go"],
-  frameworks: ["React", "Next.js", "Flutter", "Node.js", "Flask", "Spring Boot"],
+  languages: ["Python", "Javascript", "Java", "Dart", "PHP",],
+  frameworks: ["Flutter", "Node.js", "Flask", "Spring Boot"],
   databases: ["MongoDB", "PostgreSQL", "Redis", "Firebase"],
   cloud: ["AWS", "Azure", "GCP", "Docker", "Kubernetes"],
   currentFocus: "Building AI-powered applications & contributing to open source",
@@ -56,17 +56,15 @@ const benjiDev: Developer = {
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
 
 ### 🎨 Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -148,15 +146,15 @@ const benjiDev: Developer = {
 ![AI Tools](https://img.shields.io/badge/AI-Tools-FF6B6B?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Active-00D26A?style=flat-square)
 
-A comprehensive directory of AI tools and resources built with Next.js and TypeScript. Features include tool categorization, user reviews, and AI-powered recommendations.
+A comprehensive directory of AI tools and resources built with Flask. Features include tool categorization, user reviews, and AI-powered recommendations.
 
-**Tech Stack:** Next.js, TypeScript, Tailwind CSS, Supabase
+**Tech Stack:** Flask, Bootstrap, HTML5, SQLAlchemy, CSS3, JinJa
 - 🔍 Advanced search & filtering
 - ⭐ User ratings & reviews
 - 🤖 AI-powered recommendations
 - 📱 Responsive design
 
-[🔗 Live Demo](https://your-demo-link.com) | [📁 Repository](https://github.com/benjiDev19/project1)
+[🔗 Live Demo]([https://your-demo-link.com](https://69f1-61-162-219-158.ngrok-free.app)) | [📁 Repository](https://github.com/benjiDev19/project1)
 
 </td>
 <td width="50%">
@@ -182,7 +180,7 @@ A feature-rich e-commerce mobile application with real-time inventory management
 <td width="50%">
 
 ### 🌐 Portfolio Website
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Live-00D26A?style=flat-square)
 
 My personal portfolio website showcasing projects, skills, and experience with modern animations and responsive design.
@@ -235,11 +233,11 @@ An intelligent chatbot built with natural language processing capabilities, inte
 ### 💼 Professional Experience
 ```
 🚀 Full-Stack Developer @ Tech Company (2023 - Present)
-   • Developed and maintained web applications using React, Node.js, and AWS
+   • Developed and maintained Mobile applications using Flutter, Dart, and Firebase
    • Improved application performance by 40% through code optimization
    • Led a team of 3 developers on multiple projects
 
-🌟 Freelance Developer (2022 - 2023)
+🌟 Freelance Developer (2021 - 2023)
    • Built custom websites and mobile apps for 20+ clients
    • Specialized in e-commerce solutions and business automation
    • Maintained 98% client satisfaction rate
@@ -247,8 +245,9 @@ An intelligent chatbot built with natural language processing capabilities, inte
 
 ### 🎓 Education & Certifications
 ```
-🎓 Bachelor's in Computer Science (2020 - 2024)
-🏆 AWS Certified Solutions Architect
+🎓 Master's in Computer Science (2022 - 2024)
+🎓 Bachelor's in Computer Science (2018 - 2022)
+🏆 Java & Kotlin Certified Mobile Developement
 🏆 Google Cloud Professional Developer
 🏆 Meta React Developer Certificate
 ```
@@ -281,9 +280,9 @@ An intelligent chatbot built with natural language processing capabilities, inte
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   12 hrs 15 mins  ████████████▓░░░░░░░░░░░░   50.85 %
-Python       5 hrs 45 mins   ██████░░░░░░░░░░░░░░░░░░░   23.91 %
-React        3 hrs 30 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.55 %
+Python   12 hrs 15 mins  ████████████▓░░░░░░░░░░░░   50.85 %
+Flutter & Dart       5 hrs 45 mins   ██████░░░░░░░░░░░░░░░░░░░   23.91 %
+Flask        3 hrs 30 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.55 %
 Docker       1 hr 20 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
 YAML         45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
 Other        30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
@@ -305,7 +304,7 @@ Other        30 mins         ▒░░░░░░░░░░░░░░░░
 <td align="center" width="33%">
 <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd5-9937-6a2c6b2e8b80.gif" width="60">
 <br><strong>Building</strong>
-<br>SaaS Applications
+<br>Web Applications
 <br>Open Source Tools
 </td>
 <td align="center" width="33%">
@@ -364,7 +363,7 @@ Other        30 mins         ▒░░░░░░░░░░░░░░░░
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
   
   ### Thanks for visiting! Star ⭐ some repositories if you find them interesting!
   
