@@ -132,19 +132,19 @@ const developer = {
 <tr>
 <td width="50%">
 
-### 🚀 AI Tools Directory
+### 🚀 AI Tools Cloud
 ![AI Tools](https://img.shields.io/badge/AI-Tools-FF6B6B?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Active-00D26A?style=flat-square)
 
 A comprehensive directory of AI tools and resources built with Flask. Features include tool categorization, user reviews, and AI-powered recommendations.
 
-**Tech Stack:** Flask, Bootstrap, HTML5, SQLAlchemy, CSS3, JinJa
+**Tech Stack:** Flask, Bootstrap, HTML5, SQLAlchemy, CSS3, JinJa, Tensorflow
 - 🔍 Advanced search & filtering
 - ⭐ User ratings & reviews
 - 🤖 AI-powered recommendations
 - 📱 Responsive design
 
-[🔗 Live Demo](https://69f1-61-162-219-158.ngrok-free.app) | [📁 Repository](https://github.com/benjiDev19/project1)
+[🔗 Live Demo](https://toolsai.cloud) | [📁 Repository](https://github.com/benjiDev19/project1)
 
 </td>
 <td width="50%">
@@ -181,7 +181,7 @@ My personal portfolio website showcasing projects, skills, and experience with m
 - 📊 Interactive charts
 - 🌙 Dark/Light theme
 
-[🔗 Live Demo](https://benjidev.web.app) | [📁 Repository](https://github.com/benjiDev19/portfolio)
+[🔗 Live Demo](https://benjidev.web.app) | [📁 Repository]()
 
 </td>
 <td width="50%">
@@ -198,7 +198,7 @@ An intelligent chatbot built with natural language processing capabilities, inte
 - 💬 Real-time messaging
 - 📈 Analytics dashboard
 
-[🔗 Live Demo](https://your-demo-link.com) | [📁 Repository](https://github.com/benjiDev19/simple-flutter-chatbot-with-speech)
+[🔗 Live Demo]() | [📁 Repository](https://github.com/benjiDev19/simple-flutter-chatbot-with-speech)
 
 </td>
 </tr>
