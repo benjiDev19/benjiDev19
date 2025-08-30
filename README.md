@@ -223,9 +223,9 @@ An intelligent chatbot built with natural language processing capabilities, inte
 ### 💼 Professional Experience
 ```
 🚀 Full-Stack Developer @ PIF-X (2025 - Present)
-   • Developed and maintained Mobile applications using Flutter, Dart, and Firebase
-   • Improved application performance by 40% through code optimization
-   • Led a team of 3 developers on multiple projects
+   • Develope and maintain Web Apps & Mobile Apps using, Javascript, Python, Flask, Sql, Flutter, Dart, and Firebase
+   • Improve application performance by 40% through code optimization
+   • Lead a team of 3 developers on multiple projects
 
 🌟 Freelance Developer (2020 - 2024)
    • Built custom websites and mobile apps for 20+ clients
@@ -235,11 +235,11 @@ An intelligent chatbot built with natural language processing capabilities, inte
 
 ### 🎓 Education & Certifications
 ```
-🎓 Master's in Computer Science (2022 - 2024)
+🎓 Master's in Computer Science(Machine Learning) (2022 - 2024)
 🎓 Bachelor's in Computer Science (2018 - 2022)
 🏆 Java & Kotlin Certified Mobile Developement
 🏆 Google Cloud Professional Developer
-🏆 Meta React Developer Certificate
+🏆 Meta React Developer Certified
 ```
 
 </div>
