@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm BenJi! 
+# 👋 Hi, I'm BenJi! 
 
 <div align="center">
   
