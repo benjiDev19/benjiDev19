@@ -222,12 +222,12 @@ An intelligent chatbot built with natural language processing capabilities, inte
 
 ### 💼 Professional Experience
 ```
-🚀 Full-Stack Developer @ Tech Company (2023 - Present)
+🚀 Full-Stack Developer @ PIF-X (2025 - Present)
    • Developed and maintained Mobile applications using Flutter, Dart, and Firebase
    • Improved application performance by 40% through code optimization
    • Led a team of 3 developers on multiple projects
 
-🌟 Freelance Developer (2021 - 2023)
+🌟 Freelance Developer (2020 - 2024)
    • Built custom websites and mobile apps for 20+ clients
    • Specialized in e-commerce solutions and business automation
    • Maintained 98% client satisfaction rate
