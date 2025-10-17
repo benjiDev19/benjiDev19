@@ -17,12 +17,12 @@
 ```javascript
 const developer = {
     name: "BenJi",
-    location: "Beijing, China 🇨🇳",
-    role: "Full-Stack Developer & AI Enthusiast",
-    languages: [ "Python", "Java", "JavaScript",  "Dart", PhP],
+    location: "Shenzhen, China 🇨🇳",
+    role: "Full-Stack Developer & Prompt Engineer",
+    languages: [ "Python", "Java", "JavaScript",  "Dart", "Kotlin"],
     frameworks: ["Flutter", "Node.js", "Flask"],
-    databases: ["MongoDB", "PostgreSQL", "Firebase Database"],
-    cloud: ["AWS", "Azure", "Docker", "Firebase"],
+    databases: ["MongoDB", "PostgreSQL", "Firebase Database","MySql","Supabase"],
+    cloud: ["AWS", "Azure", "Docker", "Firebase", "Google Console"],
     learning: ["Web3", "Advanced AI/ML", "System Design"],
     currentFocus: "Building AI-powered applications & contributing to open source",
     hobbies: ["Coding", "Tech Blogging", "Contributing to OSS"],
