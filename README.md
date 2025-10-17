@@ -9,8 +9,7 @@
   [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white)](https://benjidev.web.app)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ben-ampouala-83a153201/)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@benjiDev19)
-  [![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logoColor=white)](mailto:benjaminampouala@gmail.com)
-  [![Resume](https://img.shields.io/badge/📄_Resume-4285F4?style=for-the-badge&logoColor=white)](#)
+  [![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logoColor=white)](mailto:bbc.benjidev@gmail.com) 
   
 </div>
 
