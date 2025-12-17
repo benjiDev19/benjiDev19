@@ -12,6 +12,27 @@ I’m a full-stack developer with a Master’s in Computer Science (ML), focused
 
 I enjoy designing scalable backends, clean APIs, and turning ideas into deployed platforms used by real users.
 
+<br clear="both"> 
+
+---
+
+## 🚀 Featured Project — ToolsAI Cloud
+
+**AI tools discovery & recommendation platform**
+
+ToolsAI Cloud helps users discover the right AI tools using intent-based search, relevance scoring, and real user feedback.
+
+**Why it stands out**
+- Semantic-style tool discovery
+- AI-powered recommendations
+- Reviews, ratings & analytics
+- Production deployment with real users
+
+**Stack:** Flask · FastAPI · PyTorch · Tailwind · PostgreSQL  
+🌐 https://toolsai.cloud  
+📁 https://github.com/benjiDev19/project1
+
+---
 
 ## 🛠️ Tech Arsenal
 
