@@ -58,14 +58,12 @@ const developer = {
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 ### 🗄️ Databases & Storage
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
@@ -74,7 +72,6 @@ const developer = {
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### 🤖 AI/ML & Tools
@@ -83,7 +80,6 @@ const developer = {
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
@@ -124,21 +120,112 @@ const developer = {
 
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
 
-### 🚀 AI Tools Cloud
-![AI Tools](https://img.shields.io/badge/AI-Tools-FF6B6B?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Active-00D26A?style=flat-square)
+🚀 ToolsAI Cloud — Discover the Best AI Tools, Faster
 
-A comprehensive directory of AI tools and resources built with Flask. Features include tool categorization, user reviews, and AI-powered recommendations.
 
-**Tech Stack:** Flask, Bootstrap, HTML5, SQLAlchemy, CSS3, JinJa, Tensorflow
-- 🔍 Advanced search & filtering
-- ⭐ User ratings & reviews
-- 🤖 AI-powered recommendations
-- 📱 Responsive design
 
-[🔗 Live Demo](https://toolsai.cloud) | [📁 Repository](https://github.com/benjiDev19/project1)
+
+
+
+ToolsAI Cloud is a production-ready AI tools discovery platform designed to help users quickly find, evaluate, and choose the right AI tools for their needs.
+
+It combines semantic search, user-driven insights, and AI-powered recommendations into a clean, responsive web experience — making AI tooling easier to explore, compare, and adopt.
+
+🌐 Live platform: https://toolsai.cloud
+
+✨ Key Features
+
+🔍 Smart Tool Discovery
+
+Advanced search with filtering by category, use case, and popularity
+
+Semantic relevance to match tools based on intent, not just keywords
+
+🤖 AI-Powered Recommendations
+
+Suggests relevant tools based on user behavior and search context
+
+Built to scale with more advanced ML models
+
+⭐ Community-Driven Reviews
+
+User ratings & reviews to surface the most useful tools
+
+Helps users make informed decisions quickly
+
+📈 Analytics & Growth-Ready
+
+Newsletter subscription system
+
+Growth metrics & engagement tracking
+
+Designed with scalability in mind
+
+📱 Fully Responsive UI
+
+Optimized for desktop and mobile
+
+Clean, modern interface focused on usability
+
+🧠 Architecture Overview
+
+Backend: Flask (core app) + FastAPI (API endpoints & future scalability)
+
+AI Layer: PyTorch (recommendation & relevance logic)
+
+Frontend: HTML5, CSS3, JavaScript, Bootstrap, Tailwind
+
+Templating: Jinja
+
+Database: SQLite (easily swappable for PostgreSQL)
+
+Deployment: Production-hosted (Railway-ready architecture)
+
+🛠 Tech Stack
+Layer	Technologies
+Backend	Flask, FastAPI
+Frontend	HTML5, CSS3, JavaScript, Bootstrap, Tailwind
+AI / ML	PyTorch
+Database	SQLite
+Templating	Jinja
+Deployment	Cloud-hosted
+🎯 Why This Project Stands Out
+
+✅ Real users & live production deployment
+✅ Combines AI + search + analytics
+✅ Clean separation between UI, API, and data
+✅ Designed for scale (easy migration to Postgres, vector search, etc.)
+✅ Demonstrates full-stack + AI engineering skills
+
+This project showcases:
+
+Backend architecture decisions
+
+Data modeling & migrations
+
+Query optimization & analytics logic
+
+Practical AI integration (not just demos)
+
+🔗 Links
+
+🌍 Live Website: https://toolsai.cloud
+
+📁 GitHub Repository: https://github.com/benjiDev19/project1
+
+🚧 Roadmap (Optional but impressive on GitHub)
+
+ Vector search (FAISS / embeddings)
+
+ User accounts & saved tools
+
+ Advanced recommendation models
+
+ PostgreSQL migration
+
+ Public API for tool discovery[📁 Repository](https://github.com/benjiDev19/project1)
 
 </td>
 <td width="50%">
