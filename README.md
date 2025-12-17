@@ -46,7 +46,7 @@ ToolsAI Cloud helps users discover the right AI tools using intent-based search,
 
 ## 🛠️ Tech Arsenal
 
-<div align="center">
+<div align="left">
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -120,56 +120,6 @@ ToolsAI Cloud helps users discover the right AI tools using intent-based search,
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=benjiDev19&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</div>
-
----
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-  
-<td width="50%">
-
-### 📱 Flutter E-commerce App
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Completed-00D26A?style=flat-square)
-
-A feature-rich e-commerce mobile application with real-time inventory management, secure payment integration, and beautiful UI/UX.
-
-**Tech Stack:** Flutter, Dart, Firebase, Stripe API
-- 💳 Secure payment processing
-- 📦 Real-time inventory
-- 🛒 Cart & wishlist functionality
-- 🔐 User authentication
-
-[🔗 Live Demo](https://your-demo-link.com) | [📁 Repository](https://github.com/benjiDev19/project2)
-
-</td>
-</tr>
-
-<td width="50%">
-
-### 🤖 ChatBot Assistant
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Beta-FFA500?style=flat-square)
-
-An intelligent chatbot built with natural language processing capabilities, integrated with multiple APIs for enhanced functionality.
-
-**Tech Stack:** Python, Flask, OpenAI API, React
-- 🧠 NLP capabilities
-- 🔌 Multiple API integrations
-- 💬 Real-time messaging
-- 📈 Analytics dashboard
-
-[🔗 Live Demo]() | [📁 Repository](https://github.com/benjiDev19/simple-flutter-chatbot-with-speech)
-
-</td>
-</tr>
-</table>
-
 </div>
 
 ---
