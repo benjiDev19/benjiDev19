@@ -118,6 +118,8 @@ const developer = {
 
 <div align="center">
 
+<tr>
+
 ### 🚀 ToolsAI Cloud — AI Tools Discovery Platform (Flagship Project)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -172,6 +174,7 @@ Flask · FastAPI · PyTorch · SQLite · Tailwind · Jinja · JavaScript
 🔗 Links
 🌍 Live Site
  · 📁 Repository
+ </tr>
 
 <table>
 <tr>
@@ -195,24 +198,6 @@ A feature-rich e-commerce mobile application with real-time inventory management
 </td>
 </tr>
 
-<tr>
-<td width="50%">
-
-### 🌐 Portfolio Website
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Live-00D26A?style=flat-square)
-
-My personal portfolio website showcasing projects, skills, and experience with modern animations and responsive design. 
-
-**Tech Stack:** React, TypeScript, Framer Motion, Tailwind CSS
-- ✨ Smooth animations
-- 🎨 Modern design
-- 📊 Interactive charts
-- 🌙 Dark/Light theme
-
-[🔗 Live Demo](https://benjidev.web.app) | [📁 Repository]()
-
-</td>
 <td width="50%">
 
 ### 🤖 ChatBot Assistant
