@@ -18,7 +18,7 @@ I enjoy designing scalable backends, clean APIs, and turning ideas into deployed
 
 ## 🚀 Featured Project — ToolsAI Cloud
 
-<div align="center">
+<div align="right">
 
 <table>
 <tr>
