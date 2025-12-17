@@ -118,10 +118,6 @@ const developer = {
 
 <div align="center">
 
-<table>
-<tr>
-<td width="100%">
-
 🚀 ToolsAI Cloud — Discover the Best AI Tools, Faster
 
 
@@ -227,7 +223,9 @@ Practical AI integration (not just demos)
 
  Public API for tool discovery[📁 Repository](https://github.com/benjiDev19/project1)
 
-</td>
+<table>
+<tr>
+  
 <td width="50%">
 
 ### 📱 Flutter E-commerce App
