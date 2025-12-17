@@ -118,110 +118,60 @@ const developer = {
 
 <div align="center">
 
-🚀 ToolsAI Cloud — Discover the Best AI Tools, Faster
+### 🚀 ToolsAI Cloud — AI Tools Discovery Platform (Flagship Project)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Live-00D26A?style=flat-square)
 
+ToolsAI Cloud is a production-grade AI tools discovery and recommendation platform that helps users find the right AI tools based on intent, relevance, and real-world feedback — not just keywords.
 
+This project demonstrates full-stack engineering + applied AI, built, deployed, and actively used by real users.
 
+🌐 Live: https://toolsai.cloud
 
+🧠 What Makes It Stand Out
 
+🔍 Intent-based tool discovery (semantic-style search)
 
-ToolsAI Cloud is a production-ready AI tools discovery platform designed to help users quickly find, evaluate, and choose the right AI tools for their needs.
+🤖 AI-powered recommendations using relevance scoring
 
-It combines semantic search, user-driven insights, and AI-powered recommendations into a clean, responsive web experience — making AI tooling easier to explore, compare, and adopt.
+⭐ Community-driven reviews & ratings
 
-🌐 Live platform: https://toolsai.cloud
+📊 Newsletter growth & engagement analytics
 
-✨ Key Features
+🧱 Scalable architecture (Flask core + FastAPI APIs)
 
-🔍 Smart Tool Discovery
+🏗 Architecture Highlights
 
-Advanced search with filtering by category, use case, and popularity
+Backend: Flask (core web), FastAPI (API & analytics endpoints)
 
-Semantic relevance to match tools based on intent, not just keywords
+AI Layer: PyTorch (recommendation logic)
 
-🤖 AI-Powered Recommendations
+Frontend: HTML, Tailwind, Bootstrap, Jinja
 
-Suggests relevant tools based on user behavior and search context
+Database: SQLite (Postgres-ready)
 
-Built to scale with more advanced ML models
+Deployment: Cloud-hosted, Railway-compatible
 
-⭐ Community-Driven Reviews
-
-User ratings & reviews to surface the most useful tools
-
-Helps users make informed decisions quickly
-
-📈 Analytics & Growth-Ready
-
-Newsletter subscription system
-
-Growth metrics & engagement tracking
-
-Designed with scalability in mind
-
-📱 Fully Responsive UI
-
-Optimized for desktop and mobile
-
-Clean, modern interface focused on usability
-
-🧠 Architecture Overview
-
-Backend: Flask (core app) + FastAPI (API endpoints & future scalability)
-
-AI Layer: PyTorch (recommendation & relevance logic)
-
-Frontend: HTML5, CSS3, JavaScript, Bootstrap, Tailwind
-
-Templating: Jinja
-
-Database: SQLite (easily swappable for PostgreSQL)
-
-Deployment: Production-hosted (Railway-ready architecture)
+Design Philosophy: API-first, modular, production-ready
 
 🛠 Tech Stack
-Layer	Technologies
-Backend	Flask, FastAPI
-Frontend	HTML5, CSS3, JavaScript, Bootstrap, Tailwind
-AI / ML	PyTorch
-Database	SQLite
-Templating	Jinja
-Deployment	Cloud-hosted
-🎯 Why This Project Stands Out
 
-✅ Real users & live production deployment
-✅ Combines AI + search + analytics
-✅ Clean separation between UI, API, and data
-✅ Designed for scale (easy migration to Postgres, vector search, etc.)
-✅ Demonstrates full-stack + AI engineering skills
+Flask · FastAPI · PyTorch · SQLite · Tailwind · Jinja · JavaScript
 
-This project showcases:
+📌 Why This Project Matters
 
-Backend architecture decisions
-
-Data modeling & migrations
-
-Query optimization & analytics logic
-
-Practical AI integration (not just demos)
+✔ Real users & live production traffic
+✔ Combines search, AI, analytics, and UX
+✔ Demonstrates backend architecture decisions
+✔ Shows end-to-end product thinking
+✔ Not a tutorial — a real platform
 
 🔗 Links
-
-🌍 Live Website: https://toolsai.cloud
-
-📁 GitHub Repository: https://github.com/benjiDev19/project1
-
-🚧 Roadmap (Optional but impressive on GitHub)
-
- Vector search (FAISS / embeddings)
-
- User accounts & saved tools
-
- Advanced recommendation models
-
- PostgreSQL migration
-
- Public API for tool discovery[📁 Repository](https://github.com/benjiDev19/project1)
+🌍 Live Site
+ · 📁 Repository
 
 <table>
 <tr>
