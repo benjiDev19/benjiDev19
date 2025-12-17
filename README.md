@@ -1,14 +1,8 @@
-# 👋 Hi!!!
+# Hi, I’m Benjamin 👋  
+**Full-Stack Developer | AI-Powered Products | FastAPI & Flask**
 
-<div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer+%F0%9F%9A%80;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%9F;Problem+Solver+%26+Innovator+%F0%9F%92%A1;Always+Learning+New+Technologies+%F0%9F%93%9A&font=Fira%20Code&center=true&width=600&height=50&duration=4000&pause=1000&color=58A6FF)
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
-  
-</div>
+I build production-ready web and Mobile apps platforms that combine search, data, and applied AI.
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## 🚀 About Me
 
