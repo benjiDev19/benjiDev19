@@ -18,6 +18,10 @@ I enjoy designing scalable backends, clean APIs, and turning ideas into deployed
 
 ## 🚀 Featured Project — ToolsAI Cloud
 
+<div align="center">
+
+<table>
+<tr>
 **AI tools discovery & recommendation platform**
 
 ToolsAI Cloud helps users discover the right AI tools using intent-based search, relevance scoring, and real user feedback.
@@ -31,6 +35,12 @@ ToolsAI Cloud helps users discover the right AI tools using intent-based search,
 **Stack:** Flask · FastAPI · PyTorch · Tailwind · PostgreSQL  
 🌐 https://toolsai.cloud  
 📁 https://github.com/benjiDev19/project1
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -117,64 +127,6 @@ ToolsAI Cloud helps users discover the right AI tools using intent-based search,
 ## 🎯 Featured Projects
 
 <div align="center">
-
-<tr>
-
-### 🚀 ToolsAI Cloud — AI Tools Discovery Platform (Flagship Project)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Live-00D26A?style=flat-square)
-
-ToolsAI Cloud is a production-grade AI tools discovery and recommendation platform that helps users find the right AI tools based on intent, relevance, and real-world feedback — not just keywords.
-
-This project demonstrates full-stack engineering + applied AI, built, deployed, and actively used by real users.
-
-🌐 Live: https://toolsai.cloud
-
-🧠 What Makes It Stand Out
-
-🔍 Intent-based tool discovery (semantic-style search)
-
-🤖 AI-powered recommendations using relevance scoring
-
-⭐ Community-driven reviews & ratings
-
-📊 Newsletter growth & engagement analytics
-
-🧱 Scalable architecture (Flask core + FastAPI APIs)
-
-🏗 Architecture Highlights
-
-Backend: Flask (core web), FastAPI (API & analytics endpoints)
-
-AI Layer: PyTorch (recommendation logic)
-
-Frontend: HTML, Tailwind, Bootstrap, Jinja
-
-Database: SQLite (Postgres-ready)
-
-Deployment: Cloud-hosted, Railway-compatible
-
-Design Philosophy: API-first, modular, production-ready
-
-🛠 Tech Stack
-
-Flask · FastAPI · PyTorch · SQLite · Tailwind · Jinja · JavaScript
-
-📌 Why This Project Matters
-
-✔ Real users & live production traffic
-✔ Combines search, AI, analytics, and UX
-✔ Demonstrates backend architecture decisions
-✔ Shows end-to-end product thinking
-✔ Not a tutorial — a real platform
-
-🔗 Links
-🌍 Live Site
- · 📁 Repository
- </tr>
 
 <table>
 <tr>
