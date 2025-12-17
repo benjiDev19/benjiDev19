@@ -1,32 +1,17 @@
-# Hi, I’m Benjamin 👋  
-**Full-Stack Developer | AI-Powered Products | FastAPI & Flask**
+# 👋 Hi!!! 
 
-I build production-ready web and Mobile apps platforms that combine search, data, and applied AI.
+<div align="center"> 
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer+%F0%9F%9A%80;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%9F;Problem+Solver+%26+Innovator+%F0%9F%92%A1;Always+Learning+New+Technologies+%F0%9F%93%9A&font=Fira%20Code&center=true&width=600&height=50&duration=4000&pause=1000&color=58A6FF) <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800"> 
 
-## 🚀 About Me
+</div>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+## About Me
 
-```javascript
-const developer = {
-    name: "BenJi",
-    location: "Shenzhen, China 🇨🇳",
-    role: "Full-Stack Developer & Prompt Engineer",
-    languages: [ "Python", "Java", "JavaScript",  "Dart", "Kotlin"],
-    frameworks: ["Flutter", "Node.js", "Flask"],
-    databases: ["MongoDB", "PostgreSQL", "Firebase Database","MySql","Supabase"],
-    cloud: ["AWS", "Azure", "Docker", "Firebase", "Google Console"],
-    learning: ["Web3", "Advanced AI/ML", "System Design"],
-    currentFocus: "Building AI-powered applications & contributing to open source",
-    hobbies: ["Coding", "Tech Blogging", "Contributing to OSS"],
-    motto: "Building the future, one commit at a time! 🚀"
-    lifePhilosophy: "Code with passion, debug with patience! 🐛✨"
-};
-```
-<br clear="both">
+I’m a full-stack developer with a Master’s in Computer Science (ML), focused on building real-world AI-driven products.
 
----
+I enjoy designing scalable backends, clean APIs, and turning ideas into deployed platforms used by real users.
+
 
 ## 🛠️ Tech Arsenal
 
