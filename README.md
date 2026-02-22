@@ -1,10 +1,10 @@
-@benjiDev19
+# Ben Ampouala (@benjiDev19)
 
 <div align="center">
 
 **Full-Stack Developer · AI/ML Engineer · Open Source Builder**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-benjidev.web.app-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://benjidev.web.app)
+[![Live Project](https://img.shields.io/badge/Live%20Project-toolsai.cloud-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://toolsai.cloud)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ben%20Ampouala-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ben-ampouala-83a153201/)
 [![Email](https://img.shields.io/badge/Email-benjaminampouala%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benjaminampouala@gmail.com)
 
@@ -94,6 +94,6 @@ AI tools discovery and recommendation platform.
 
 ## Contact
 
-- Portfolio: https://benjidev.web.app
+- Featured Project (Live): https://toolsai.cloud
 - LinkedIn: https://www.linkedin.com/in/ben-ampouala-83a153201/
 - Email: benjaminampouala@gmail.com
