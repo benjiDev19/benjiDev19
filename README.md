@@ -1,10 +1,10 @@
-# (@benjiDev19)
+# Ben Ampouala (@benjiDev19)
 
 <div align="center">
 
 **Full-Stack Developer · AI/ML Engineer · Open Source Builder**
 
-[![Live Project](https://img.shields.io/badge/Live%20Project-toolsai.cloud-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://toolsai.cloud)
+[![Live Project](https://img.shields.io/badge/Live%20Project-stremit.io-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://stremit.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ben%20Ampouala-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ben-ampouala-83a153201/)
 [![Email](https://img.shields.io/badge/Email-admin%40toolsai.cloud-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:admin@toolsai.cloud)
 
@@ -22,17 +22,27 @@ I build production-ready web and mobile products with a focus on clean architect
 
 ## Featured Project
 
-### [ToolsAI Cloud](https://toolsai.cloud)
-AI tools discovery and recommendation platform.
+# Stremit
 
-**Highlights**
-- Intent-based search and ranking
-- Recommendation workflows powered by user behavior
-- Ratings, reviews, and analytics for decision support
-- Real-world production deployment
+The social network for AI builders.
+Discover tools, build stacks, run AI agents, and share with the community.
 
-**Stack:** Flask, FastAPI, PyTorch, Tailwind CSS, PostgreSQL<br>
-**Repository:** https://github.com/benjiDev19/project1
+**Live:** https://stremit.io
+
+## About
+
+## Tech stack
+
+| Layer | Technology |
+|-------|-----------|
+| Backend | Python 3.11, Flask 3.x |
+| Database | PostgreSQL via SQLAlchemy |
+| Frontend | Jinja2, Tailwind CSS, Alpine.js |
+| AI | Anthropic Claude API |
+| Email | Resend |
+| Payments | Paddle / Gumroad |
+| Hosting | Railway |
+| Search | PostgreSQL full-text + FAISS semantic |
 
 ---
 
@@ -94,6 +104,6 @@ AI tools discovery and recommendation platform.
 
 ## Contact
 
-- Featured Project (Live): https://toolsai.cloud
+- Featured Project (Live): https://stremit.io
 - LinkedIn: https://www.linkedin.com/in/ben-ampouala-83a153201/
 - Email: admin@toolsai.cloud
