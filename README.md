@@ -29,7 +29,7 @@ Discover tools, build stacks, run AI agents, and share with the community.
 
 **Live:** https://stremit.io
 
----
+## About
 
 ## Tech stack
 
