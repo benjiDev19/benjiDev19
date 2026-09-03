@@ -12,6 +12,9 @@
   <a href="https://getenclo.web.app">
     <img src="https://img.shields.io/badge/Enclo-getenclo.web.app-7C5CFF?style=for-the-badge&logo=firebase&logoColor=white" alt="Enclo">
   </a>
+  <a href="https://skrytvpn.web.app">
+    <img src="https://img.shields.io/badge/Skryt-skrytvpn.web.app-651DE1?style=for-the-badge&logo=wireguard&logoColor=white" alt="Skryt">
+  </a>
   <img src="https://img.shields.io/badge/Building-in%20public-111113?style=for-the-badge" alt="Building in public">
 </p>
 
@@ -37,6 +40,14 @@ Ships on **Android, Windows, macOS and Linux** —
 [download](https://github.com/benjiDev19/enclo.app/releases/latest)
 
 `Flutter` · `Dart` · `SQLite` · `Riverpod` · `Firebase Hosting`
+
+### [Skryt](https://skrytvpn.web.app) — a private tunnel, one tap away
+
+A WireGuard client for Stremit members that surfaces what actually matters: which exit you
+are on, how fast it is, and whether you are protected. Device management, per-account data
+limits and live server latency live in the app, so there is no dashboard to learn.
+
+`Flutter` · `WireGuard` · `wstunnel` · `Stremit accounts`
 
 ### [Stremit Bridge Agent](https://github.com/benjiDev19/stremit-bridge-agent-releases/releases/latest) — local models, on the network
 
@@ -81,5 +92,5 @@ download page alongside update manifests, so installed copies find their own upg
 ---
 
 <p align="center">
-  <sub>Building in public — <a href="https://stremit.io">stremit.io</a> · <a href="https://getenclo.web.app">getenclo.web.app</a></sub>
+  <sub>Building in public — <a href="https://stremit.io">stremit.io</a> · <a href="https://getenclo.web.app">getenclo.web.app</a> · <a href="https://skrytvpn.web.app">skrytvpn.web.app</a></sub>
 </p>
